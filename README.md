@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/pDY92lapnxCvZBSrpS/giphy.gif" align="center" style="width: 100%" />
+<img src="https://s4.gifyu.com/images/HI--IM-MAYUR.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -46,22 +46,12 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
 
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+
 
 
 ### GET IT TOUCH   
