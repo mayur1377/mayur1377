@@ -98,7 +98,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 
 
-### GET IT TOUCH   
+<h2>GET IN TOUCH 🤝</h2> 
 <div align="center">
 <a href="https://linkedin.com/in/mayuresh-a-899090231/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -136,9 +136,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mayur1377&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
