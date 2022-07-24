@@ -23,7 +23,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="centre><tr><td valign="top" width="100%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -116,9 +116,14 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact" align="center" /></div>  
+<br>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
+<br>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</div>  
 
 <br/>  
 
@@ -126,7 +131,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 
 <br/>  
-
+<h2>I'm Currently Listening to 🎶🎶</h2>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=788ru4srxig778g2dhj9oydgd&cover_image=false&theme=default&bar_color=121212&bar_color_cover=false" /></div>  
 
 <br/>  
