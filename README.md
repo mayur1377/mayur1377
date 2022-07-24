@@ -9,7 +9,7 @@ SCIENCE AND ENGINEERING FROM INDIA ♥ . I AM A COMPETETIVE PROGRAMMER
 AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 </div>  
   
-
+<div styles="text-align :centre ; position: relative;" >
 - 🔭 I’m currently working on my website!  
   
 
@@ -18,7 +18,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 - ⚡ Fun fact: I'm in a band 🎸  
   
-
+</div>
 <br/>  
 
 
@@ -123,10 +123,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
 
 <br/>  
 
