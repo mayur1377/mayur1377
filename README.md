@@ -10,6 +10,8 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 </div>  
   
 <div styles="text-align :centre ; position: relative;" >
+
+
 - 🔭 I’m currently working on my website!  
   
 
