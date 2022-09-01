@@ -18,7 +18,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 - ❓ Ask me about anything related to DSA!  
   
 
-- ⚡ Fun fact: I'm in a band 🎸  
+- ⚡ Fun fact: I'm in a cool band 🎸  
   
 </div>
 <br/>  
