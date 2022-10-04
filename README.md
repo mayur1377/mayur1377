@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://s4.gifyu.com/images/HI--IM-MAYUR.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/U3vZjo3IeeoD6WlitG/giphy.gif" align="center" />
+
 </div>  
   
 
