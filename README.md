@@ -90,6 +90,10 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 <br/>  
 
+  
+## My Contribution In HACKTOBER 2022
+  
+  [![@mayur_1377's Holopin board](https://holopin.io/api/user/board?user=mayur_1377)](https://holopin.io/@mayur_1377)
 
 
 
@@ -104,11 +108,13 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 <br/>  
 
+
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mayur1377&&style=flat-square" align="center" />
 </div> 
 <br/>  
+ 
 
 ![]()  
 
