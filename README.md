@@ -81,10 +81,9 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 ## Github Stats  
 <br>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
-<br>
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<div ><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />
+
+<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark"  /></div>  
 
 </div>  
 
