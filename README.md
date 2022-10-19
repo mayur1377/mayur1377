@@ -29,7 +29,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/mayur137/mayur137/blob/output/snake.svg" alt="Snake animation" />
+
 
 
 <div align="center">
@@ -80,7 +80,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 <h2> Github Stats<h2>  
 <div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left"/>
+<div><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark"  align="center" /> </div>
 </div>
 </div></div>
