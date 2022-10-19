@@ -107,14 +107,18 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 <br/>  
 
 
+
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mayur1377&&style=flat-square" align="center" />
 </div> 
 <br/>  
  
+##something fun to watch
 
-![]()  
+![snake gif](https://github.com/mayur1377/mayur1377/blob/output/github-contribution-grid-snake.gif)
+  
+  
 
 <br />
 
