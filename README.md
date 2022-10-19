@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">HI I'M MAYURESH ! 👋😎
+### <div align="center"><h1>HI I'M MAYURESH ! 👋😎<h1>
 A 2ND YEAR ENGINEERING STUDENT PURSUING MY DEGREE IN INFORMATION 
 SCIENCE AND ENGINEERING FROM INDIA ♥ . I AM A COMPETETIVE PROGRAMMER
 AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
@@ -61,41 +61,40 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 
 
 
-<h2>GET IN TOUCH 🤝</h2> 
+<h2>GET IN TOUCH 🤝</h2> <br><br>
 <div align="center">
 <a href="https://linkedin.com/in/mayuresh-a-899090231/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;height:70px;" />
 </a>
 <a href="https://github.com/mayur1377" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;height:70px;" />
 </a>
 <a href="https://instagram.com/mayur_1377" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;height:70px;" />
 </a>  
 </div>  
-  
+  <br><br>
 
 <br/>  
 
 
-## Github Stats  
+<h2> Github Stats<h2>  
+<div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark"  align="center" /> </div>
+</div>
+</div></div>
 <br>
-<br>
-<div ><img src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />
 
-<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&hide_border=true&layout=compact&theme=dark"  /></div>  
 
-</div>  
-
-<br/>  
-
-  
-## My Contribution In HACKTOBER 2022
-  
+<br><br>
+<div style="text-align:center;align:center;">
+<h1  >MY CONTRIBUTION IN HACKTOBER</h1>
+ 
   [![@mayur_1377's Holopin board](https://holopin.io/api/user/board?user=mayur_1377)](https://holopin.io/@mayur_1377)
 
 
-
+</div>
 <br/>  
 <h2>I'm Currently Listening to 🎶🎶</h2>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=788ru4srxig778g2dhj9oydgd&cover_image=false&theme=default&bar_color=121212&bar_color_cover=false" /></div>  
