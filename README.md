@@ -114,10 +114,11 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 </div> 
 <br/>  
  <div style="align: center;">
-<h2>Something fun to watch</h2>
 
+[![MY CONTRIBUTION GRAPH](https://activity-graph.herokuapp.com/graph?username=mayur1377&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2>Something fun to watch</h2>
+   
 ![Snake animation](https://github.com/mayur1377/mayur1377/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 <br />
 
