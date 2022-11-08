@@ -13,7 +13,7 @@ AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
 <div styles="text-align :centre ; position: relative;" >
 
 
-- 🔭 I’m currently working on my website!  
+- 🔭 I’m currently getting into the world of blockchain and web3
   
 
 - ❓ Ask me about anything related to DSA!  
