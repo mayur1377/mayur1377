@@ -7,19 +7,21 @@
 ### <div align="center"><h1>HI I'M MAYURESH ! 👋😎<h1>
 A 2ND YEAR ENGINEERING STUDENT PURSUING MY DEGREE IN INFORMATION 
 SCIENCE AND ENGINEERING FROM INDIA ♥ . I AM A COMPETETIVE PROGRAMMER
-AND A FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
+AND A FULL-STACK WEB DEVELOPER(sort of??) AND AN OVERALL TECH ENTHUSIAST .
+WEB2.0->WEB3.0
 </div>  
   
 <div styles="text-align :centre ; position: relative;" >
 
 
-- 🔭 I’m currently getting into the world of blockchain and web3
+- 🔭 I’m currently learning SOLIDITY , HARDHAT and more of JAVASCRIPT
   
 
 - ❓ Ask me about anything related to DSA!  
   
 
 - ⚡ Fun fact: I'm in a cool band 🎸  
+ 
   
 </div>
 <br/>  
