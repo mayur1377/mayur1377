@@ -26,7 +26,19 @@ WEB2.0->WEB3.0
 </div>
 <br/>  
 
+# PORTFOLIO 
 
+- Check out my pesonal portfolio [HERE!](http://iammayur.me "HERE!")
+ <div align="center">
+<!-- <img src="https://media.giphy.com/media/maS9rZMfdw9FRiMRNr/giphy.gif" align="center" /> -->
+<img src="https://i.ibb.co/BwHJsDY/image.png" align="center" />
+</div>  
+  
+
+<!-- ![](https://i.ibb.co/BwHJsDY/image.png) -->
+
+
+ 
 ## My Skill Set  
 <div align="center">
 
