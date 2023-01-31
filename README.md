@@ -29,7 +29,7 @@ A DEVELOPER DOING HIS 3RD YEAR ENGINEERING INDIA ♥ . I AM A COMPETETIVE PROGRA
 
 - Check out my pesonal portfolio [HERE!](http://iammayur.me "HERE!")
  <div align="center">
-<!-- <img src="https://media.giphy.com/media/maS9rZMfdw9FRiMRNr/giphy.gif" align="center" /> -->
+<!-- <img src="http://iammayur.me/" align="center" /> -->
 <img src="https://i.ibb.co/BwHJsDY/image.png" align="center" />
 </div>  
   
