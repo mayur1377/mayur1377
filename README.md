@@ -6,14 +6,14 @@
 
 ### <div align="center"><h1>HI I'M MAYURESH ! 👋😎<h1>
   
-A DEVELOPER DOING HIS 3RD YEAR ENGINEERING INDIA ♥ . I AM A COMPETETIVE PROGRAMMER , FULL-STACK WEB DEVELOPER AND AN OVERALL TECH ENTHUSIAST .
+A DEVELOPER / DEVELOPER / DESIGNER / MUSICIAN.
 
 </div>  
   
 <div styles="text-align :centre ; position: relative;" >
 
 
-- 🔭 I’m currently learning SOLIDITY , HARDHAT and more of JAVASCRIPT
+- 🔭 I’m currently learning SOLIDITY , DOCKER , AND WHATEVER I FIND INTRESTING..?
   
 
 - ❓ Ask me about anything related to DSA!  
