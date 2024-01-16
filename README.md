@@ -25,16 +25,8 @@ A DEVELOPER / DEVELOPER / DESIGNER / MUSICIAN.
 </div>
 <br/>  
 
-# PORTFOLIO 
 
-- Check out my pesonal portfolio [HERE!](http://iammayur.me "HERE!")
- <div align="center">
-<!-- <img src="http://iammayur.me/" align="center" /> -->
-<img src="https://i.ibb.co/BwHJsDY/image.png" align="center" />
-</div>  
-  
 
-<!-- ![](https://i.ibb.co/BwHJsDY/image.png) -->
 
 
  
