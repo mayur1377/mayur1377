@@ -1,26 +1,22 @@
 <div align="center">
-<img src="https://media.giphy.com/media/maS9rZMfdw9FRiMRNr/giphy.gif" align="center" />
+<img src="https://i.ibb.co/5M2B93T/Screenshot-2024-06-11-at-9-58-26-PM.png" align="center" />
 
 </div>  
   
 
-### <div align="center"><h1>HI I'M MAYURESH ! 👋😎<h1>
+### <div align="center"><h1>hi i'm mayur<h1>
   
-A DEVELOPER / DEVELOPER / DESIGNER / MUSICIAN.
-
+a developer / designer / musician . 
 </div>  
   
 <div styles="text-align :centre ; position: relative;" >
 
 
-- 🔭 I’m currently learning SOLIDITY , DOCKER , AND WHATEVER I FIND INTRESTING..?
+- 🔭 I’m currently learning SPRING BOOT AND KAFKA, AND WHATEVER I FIND INTRESTING..?
   
 
 - ❓ Ask me about anything related to DSA!  
-  
-
-- ⚡ Fun fact: I'm in a cool band 🎸  
- 
+   
   
 </div>
 <br/>  
@@ -125,13 +121,6 @@ A DEVELOPER / DEVELOPER / DESIGNER / MUSICIAN.
 <img src="https://komarev.com/ghpvc/?username=mayur1377&&style=flat-square" align="center" />
 </div> 
 <br/>  
- <div style="align: center;">
-
-[![MY CONTRIBUTION GRAPH](https://activity-graph.herokuapp.com/graph?username=mayur1377&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h2>Something fun to watch</h2>
-   
-![Snake animation](https://github.com/mayur1377/mayur1377/blob/output/github-contribution-grid-snake.svg)
-</div>
 <br />
 
 ----
