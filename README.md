@@ -4,21 +4,10 @@
 </div>  
   
 
-### <div align="center"><h1>hi i'm mayur<h1>
+### <div align="center"><h1>hi i'm mayur.<h1>
   
 a developer / designer / musician . 
 </div>  
-  
-<div styles="text-align :centre ; position: relative;" >
-
-
-- 🔭 I’m currently learning SPRING BOOT AND KAFKA, AND WHATEVER I FIND INTRESTING..?
-  
-
-- ❓ Ask me about anything related to DSA!  
-   
-  
-</div>
 <br/>  
 
 
@@ -54,9 +43,7 @@ a developer / designer / musician .
   <br><br/><br><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="60" width="110" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="60" width="110" alt="Python" /></a>
-<!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="60" width="110" alt="NodeJS" /></a> -->
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" height="60" width="110" alt="MetaMask" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" height="60" width="110" alt="Hardhat" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="60" width="110" alt="NodeJS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" height="60" width="110" alt="Ethereum" /></a>
 </div>
 
