@@ -15,15 +15,12 @@ a developer / designer / musician .
 
 
  
-## My Skill Set  
-<div align="center">
 
 <div align="center">
 <img src="https://i.ibb.co/6ZWmwgy/Screenshot-2024-06-16-at-8-02-31-PM.png" align="center" />
 
-</div> 
   
-###
+
 
 
 <br/>  
