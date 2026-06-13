@@ -1,127 +1,97 @@
 <div align="center">
 
-# Hi, I'm Mayur
+# Mayur Koti
 
 Backend Engineer • Distributed Systems • Open Source
 
-<img src="https://komarev.com/ghpvc/?username=mayur1377&style=flat-square" />
-
-<p>
-  <a href="https://www.iammayur.xyz">Portfolio</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-iammayur.xyz-black?style=flat-square)](https://www.iammayur.xyz)
+![Views](https://komarev.com/ghpvc/?username=mayur1377&style=flat-square&color=grey)
 
 </div>
 
 ---
 
-## About
+Software engineer based in Bengaluru. I build backend systems, developer tools, and occasionally side projects that seem fun. Most of my work involves distributed systems, cloud infrastructure, and developer experience.
 
-Software Engineer based in Bengaluru, India.
+---
 
-I enjoy building backend systems, developer tools, and products that solve real problems. Most of my work revolves around distributed systems, cloud infrastructure, and developer experience.
+## Stack
 
-* Backend Development
-* Distributed Systems
-* Open Source
-* LeetCode Knight (~Top 2%)
+```text
+Languages    C++ • Java • Python • TypeScript • JavaScript
+Backend      Spring Boot • Node.js • REST APIs • Microservices
+Cloud        AWS • GCP • Docker • Kubernetes • Helm
+Databases    PostgreSQL • MySQL • MongoDB • Redis
+Frontend     React • Next.js • React Native
+```
 
 ---
 
 ## Projects
 
-### 🎵 MUDE Player
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A VS Code extension that lets you listen to music directly inside your editor.
+<b><a href="https://github.com/mayur1377/MUDE-Player">MUDE Player</a></b>
 
-<p align="center">
-  <img src="./assets/mude.gif" alt="MUDE Player Demo" width="100%" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mayur1377/MUDE-Player">Repository</a> •
-  <a href="https://www.iammayur.xyz/project%20demo/Mude.webm">Demo</a> •
-  <a href="https://marketplace.visualstudio.com/items?itemName=mayur1377.MUDE">VS Marketplace</a> •
-  <a href="https://open-vsx.org/extension/mayur1377/MUDE">Open VSX</a>
-</p>
+VS Code extension that lets you listen to music without leaving your editor.
 
-A lightweight music player built directly into VS Code, allowing users to listen without leaving their editor.
+Available on the VS Code Marketplace and Open VSX.
 
-**Stack**
+<br/><br/>
 
-```text
-TypeScript • VS Code API • Node.js
-```
+<code>TypeScript</code>
+<code>VS Code API</code>
+<code>Node.js</code>
 
----
+<br/><br/>
 
-### 📈 Kite-Zerodha MCP
+<a href="https://github.com/mayur1377/MUDE-Player">repo</a> ·
+<a href="https://www.iammayur.xyz/project%20demo/Mude.webm">demo</a> ·
+<a href="https://marketplace.visualstudio.com/items?itemName=mayur1377.MUDE">marketplace</a> ·
+<a href="https://open-vsx.org/extension/mayur1377/MUDE">open-vsx</a>
 
-Model Context Protocol integration for Zerodha's Kite APIs.
+</td>
 
-Features:
+<td width="50%" valign="top">
 
-* Portfolio tracking
-* Position monitoring
-* Order management
-* Trading workflow integrations
+<b><a href="https://github.com/mayur1377/kite-zerodha-mcp">Kite-Zerodha MCP</a></b>
 
-<p align="center">
-  <a href="https://github.com/mayur1377/kite-zerodha-mcp">Repository</a>
-</p>
+<br/><br/>
 
-**Stack**
+Model Context Protocol server for Zerodha's Kite APIs.
 
-```text
-Java • Spring Boot • MCP • Zerodha APIs
-```
+Portfolio tracking, position monitoring, order management, and trading workflow integrations via AI agents.
 
----
+<br/><br/>
 
-## Tech Stack
+<code>Java</code>
+<code>Spring Boot</code>
+<code>MCP</code>
+<code>Zerodha APIs</code>
 
-```text
-Languages
-─────────
-C++ • Java • Python • TypeScript • JavaScript
+<br/><br/>
 
-Backend
-───────
-Spring Boot • Node.js • REST APIs • Microservices
+<a href="https://github.com/mayur1377/kite-zerodha-mcp">repo</a>
 
-Cloud & DevOps
-──────────────
-AWS • Docker • Kubernetes
-
-Databases
-─────────
-PostgreSQL • MySQL • MongoDB • Redis
-
-Frontend
-────────
-React • Next.js
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6" />
 </div>
 
 ---
 
-## Current Interests
-
-```text
-Backend Architecture
-AI agents
-System Design
-UI experiences
-```
-
----
+<div align="center">
+<sub>Bengaluru, India · open to interesting problems</sub>
+</div>
