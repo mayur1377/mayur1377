@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mayur Koti
+# Hi , I'm Mayur
 
 Backend Engineer • Distributed Systems • Open Source
 
@@ -11,7 +11,7 @@ Backend Engineer • Distributed Systems • Open Source
 
 ---
 
-Software engineer based in Bengaluru. I build backend systems, developer tools, and occasionally side projects that seem fun. Most of my work involves distributed systems, cloud infrastructure, and developer experience.
+Software engineer based in Bengaluru. I build backend systems, developer tools, and occasionally side projects that seem fun. Most of my work involves distributed systems and and developer experience.
 
 ---
 
