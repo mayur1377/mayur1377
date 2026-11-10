@@ -15,18 +15,6 @@ Software engineer based in Bengaluru. I build backend systems, developer tools, 
 
 ---
 
-## Stack
-
-```text
-Languages    C++ • Java • Python • TypeScript • JavaScript
-Backend      Spring Boot • Node.js • REST APIs • Microservices
-Cloud        AWS • GCP • Docker • Kubernetes • Helm
-Databases    PostgreSQL • MySQL • MongoDB • Redis
-Frontend     React • Next.js • React Native
-```
-
----
-
 ## Projects
 
 <table>
@@ -81,17 +69,3 @@ Portfolio tracking, position monitoring, order management, and trading workflow 
 </tr>
 </table>
 
----
-
-## Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayur1377&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur1377&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6" />
-</div>
-
----
-
-<div align="center">
-<sub>Bengaluru, India · open to interesting problems</sub>
-</div>
